@@ -1,0 +1,3 @@
+[submodule "TestExportRepoLight"]
+	path = TestExportRepoLight
+	url = https://github.com/ctrekker/TestExportRepoLight
